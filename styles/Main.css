@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #6b74fc;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px;
+}/*# sourceMappingURL=Main.css.map */
